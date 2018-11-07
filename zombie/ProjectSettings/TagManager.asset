@@ -41,3 +41,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 3041058289
+    locked: 0
+  - name: Player
+    uniqueID: 4131849087
+    locked: 0
+  - name: Enemies
+    uniqueID: 693940053
+    locked: 0
+  - name: FX
+    uniqueID: 4036050941
+    locked: 0
+  - name: Bullets
+    uniqueID: 2025408523
+    locked: 0
+  - name: Foreground
+    uniqueID: 1255466271
+    locked: 0
